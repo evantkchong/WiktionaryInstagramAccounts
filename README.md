@@ -16,6 +16,9 @@ A single object of all words and definitions:
   "sarong" : "A sort of petticoat worn by both sexes in Java and the Malay Archipelago. Balfour (Cyc. of India)",
 ```
 
+## Data Sciencing
+Unfortunately, (assuming the main.py script works properly), it seems that most, if not all words from the dictionary have already been taken. I'll likely try again in the future with a larger, more modern dictionary.
+
 ## Acknowledgments
 
 - Webster's Unabridged English Dictionary provided by [Project Gutenberg](http://www.gutenberg.net/)
